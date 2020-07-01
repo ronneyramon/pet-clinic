@@ -1,0 +1,5 @@
+com\ronneyramon\petclinic\model\Pet.class
+com\ronneyramon\petclinic\model\PetType.class
+com\ronneyramon\petclinic\model\Owner.class
+com\ronneyramon\petclinic\model\Person.class
+com\ronneyramon\petclinic\model\Vet.class
